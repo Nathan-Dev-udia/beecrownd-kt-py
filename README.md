@@ -1,7 +1,7 @@
 # 🧮 Resoluções de Problemas - Beecrowd (URI)
-![Beecrowd](https://img.shields.io/badge/Beecrowd-nfalves-713ABC?style=flat&logo=beecrowd&logoColor=yellow)
+![Beecrowd](https://img.shields.io/badge/Beecrowd-nfalves-2F2E2E?style=flat&logo=beecrowd&logoColor=FFD500)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=orange)
+![Kotlin](https://img.shields.io/badge/Kotlin-FF6F00?style=flat&logo=kotlin&logoColor=FFA500)
 
 Este repositório reúne soluções para problemas do Beecrowd (antigo URI), feitas durante a graduação em **Licenciatura em Computação** na **Universidade de Pernambuco (UPE)**.
 
