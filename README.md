@@ -1,6 +1,6 @@
 # 🧮 Resoluções de Problemas - Beecrowd (URI)
 
-Este repositório reúne soluções para problemas do Beecrowd (antigo URI), feitas durante a graduação em Ciência da Computação na **Universidade de Pernambuco (UPE)**.
+Este repositório reúne soluções para problemas do Beecrowd (antigo URI), feitas durante a graduação em Licenciatura em Computação na **Universidade de Pernambuco (UPE)**.
 
 ## 📁 Estrutura
 
